@@ -2,7 +2,7 @@
 
 I'm a final-year computer science student at PES University, graduating in 2027. I've spent much of college building and shipping things, usually because I noticed a problem and wanted to see if I could make it easier to deal with.
 
-I work across AI agents, backend systems, distributed systems, and full-stack development. Right now, I'm an **AI Software Development Engineer Intern at DataCore Software**, working with the AI Transformation Office on making enterprise storage products AI-first.
+I work across AI agents, backend systems, distributed systems, and full-stack development.
 
 ## A few things I've built
 
